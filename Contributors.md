@@ -11,6 +11,7 @@
 - [Ziqi] (https://github.com/zi7feng)
 - [Menachem Bursh] (https://github.com/burshtei)
 - [Shivam] (https://github.com/kshivam30)
+- [John Mikko Velasquez] (https://github.com/JohnMikko27)
 - [Purv](https://github.com/Purva-2609)
 - [maimoona-j](https://github.com/maimoona-j)
 - [Alexander Zheng](https://github.com/alexhzheng)
@@ -45,6 +46,7 @@
 - [Fernando Perez](https://github.com/FernPerez/)
 - [Tony McLeish](https://github.com/Tunza42/)
 - [Coop](https://github.com/SnowfallHD)
+- [Refayth Hossain (Eth3r-One)](https://github.com/Eth3R-One)
 - [Maheshwar S](https://github.com/Maheshwar-S)
 - [Hari R](https://github.com/uusername001)
 - [jcostadev23](https://github.com/jcostadev23/)
@@ -1021,6 +1023,7 @@ Nikhil R
 - [Tung Le Thanh](https://github.com/tung-le)
 - [Anuj Kumar Karmakar](https://github.com/anujkkarmakar)
 - [ElectroGamesDev](https://github.com/ElectroGamesDev)
+- [Robert Lent](https://github.com/robertlent)
 - [Angel Umeh](https://github.com/akcumeh)
 - [Mehran Faraji](https://github.com/mehranfaraji)
 - [Nayan Jyoti Das](https://github.com/njdasa)
@@ -2162,6 +2165,7 @@ Akash Abraham
 - [Nguyen Minh Hieu](https://github.com/nm-hieu)
 - [Rajiv Paul](https://github.com/rajiv-paul)
 - [Mahfy3w]()
+- [NabeelWaq1](https://github.com/NabeelWaq1)
 - [yesiyuan] (https://github.com/sakura-ysy)
 - [nami773](https://github.com/nami773/)
 - [tencho12] (https://github.com/tencho12/)
@@ -2401,3 +2405,5 @@ Janet Vazquez
 -[Aguilar, Stephen Joaquin G.](https://github.com/inamonanymous/)
 - Andrew Lohzilla
 [Chris Gough] (https://github.com/CrypticNothings)
+[ANKAN SUR] (https://github.com/ankansux)
+T7
